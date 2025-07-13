@@ -69,17 +69,4 @@ The dataset includes the following fields (based on EDA sections):
 
 - *The model achieved reasonable accuracy, but precision and recall could likely be improved with better feature engineering (e.g., combining rare categories).*
 
-- *Confusion matrix showed that while the model distinguishes between classes, there is room for better performance, especially for minority class detection.*
-
-
-📚 Future Work
-Predictive modeling to forecast future sales.
-
-Customer segmentation based on purchasing behavior.
-
-Sentiment analysis on customer reviews.
-
-
-
-
-
+- *Confusion matrix showed that while the model distinguishes between classes, there is room for better performance, especially for minority class detection.
